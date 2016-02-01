@@ -1,7 +1,7 @@
 # Chopin
 Remember to be calm.
 
-"Best Project with a Female Team Member, Best Potential Bad Girl Ventures Participant" winner Kent Fashion/Tech Hakathon 2016: 
+"Best Project with a Female Team Member, Best Potential Bad Girl Ventures Participant" winner Kent Fashion/Tech Hackathon 2016: 
 [devpost submission] (http://devpost.com/software/chopin)
 
 
