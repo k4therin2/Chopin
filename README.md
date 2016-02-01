@@ -1,5 +1,8 @@
 # Chopin
 Remember to be calm.
+"Best Project with a Female Team Member, Best Potential Bad Girl Ventures Participant" winner Kent Fashion/Tech Hakathon 2016 
+[devpost submission] (http://devpost.com/software/chopin)
+
 
 ## Inspiration
 I recently purchased the Bellabeat Leaf wearable, which tracks activity, breathing and steps, but is unable to track heart rate. After using the Leaf for a month, I've found that the deep breathing exercises are often the most relaxing part of my day. I've even begun the habit of deep breathing whenever I feel anxious, which often mutes any stirring anxiety. 
